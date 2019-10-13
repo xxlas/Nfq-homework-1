@@ -1,5 +1,4 @@
 <?php
-namespace Nfq\Akademija;
 
 function calculateHomeWorkSum(...$numbers)
 {
